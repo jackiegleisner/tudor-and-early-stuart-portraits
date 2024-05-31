@@ -2,8 +2,7 @@
 title: Introduction
 subtitle: 
 layout: page
-order: 10
-image: 
+order: 3
 ---
 
 

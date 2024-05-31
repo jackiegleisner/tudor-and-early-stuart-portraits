@@ -37,7 +37,7 @@ publisher:
   - name: Yale Center for British Art
     location: New Haven
     url: https://britishart.yale.edu/ 
-    logo: YCBA logo_stack_black.png 
+    logo: logo-ycba.png
 
 # ------------------------------------------------------------------------------
 # Contributors

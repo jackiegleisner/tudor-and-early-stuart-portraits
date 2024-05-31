@@ -1,7 +1,8 @@
 ---
 epub: false
-title: Catalogue
+title: Technical Catalogue
 layout: table-of-contents
-presentation: grid
-order: 100
+presentation: list
+object filters: false
+order: 4
 ---

@@ -18,7 +18,7 @@ Entry content, including entry image and tombstone data
     <div class="quire-entry__lightbox">
       {% if image %}
       {% comment %} 
-        To do: add support for images without ids defined in front matter
+        @TODO: add support for images without ids defined in front matter
         {% assign figures = image | split: ',' %}
         {% lightbox figures %}
       {% endcomment %}

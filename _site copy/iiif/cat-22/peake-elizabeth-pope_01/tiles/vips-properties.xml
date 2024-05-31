@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2024-05-22T16:19:22.428610-04" version="8.13.3">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">1500</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">1938</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">3</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">jpegload</value>
+    </property>
+    <property>
+      <name>jpeg-multiscan</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>jpeg-chroma-subsample</name>
+      <value type="VipsRefString">4:2:0</value>
+    </property>
+    <property>
+      <name>exif-data</name>
+      <value type="VipsBlob">RXhpZgAASUkqAAgAAAABAJiCAgAiAAAAGgAAAAAAAABZYWxlIENlbnRlciBmb3IgQnJpdGlzaCBBcnQsIDIwMDgAAAA=</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Copyright</name>
+      <value type="VipsRefString">Yale Center for British Art, 2008 (Yale Center for British Art, 2008 (Photographer) - [None] (Editor), ASCII, 34 components, 34 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-XResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-YResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Internal error (unknown value 2), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExifVersion</name>
+      <value type="VipsRefString">Exif Version 2.1 (Exif Version 2.1, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FlashpixVersion</name>
+      <value type="VipsRefString">FlashPix Version 1.0 (FlashPix Version 1.0, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ColorSpace</name>
+      <value type="VipsRefString">65535 (Internal error (unknown value 65535), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>xmp-data</name>
+      <value type="VipsBlob">PD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgOS4xLWMwMDIgNzkuZjM1NGVmYzcwLCAyMDIzLzExLzA5LTEyOjA1OjUzICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXBSaWdodHM9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9yaWdodHMvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpwaG90b3Nob3A9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iIHhtcFJpZ2h0czpNYXJrZWQ9IkZhbHNlIiB4bXBSaWdodHM6V2ViU3RhdGVtZW50PSJodHRwOi8vaGRsLmhhbmRsZS5uZXQvMTAwNzkvZ2I1bWt3dyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ1dWlkOjk2MjAxMzVDRjU2RkRGMTE5NzUwOUYwMTBENEZBNzMzIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjU1RDVBN0NCMDZBNjExRUY4Njk5RjM3MjBGREE0NTM3IiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjU1RDVBN0NBMDZBNjExRUY4Njk5RjM3MjBGREE0NTM3IiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzMgTWFjaW50b3NoIiBwaG90b3Nob3A6QXV0aG9yc1Bvc2l0aW9uPSJQaG90b2dyYXBoZXIiPiA8eG1wUmlnaHRzOlVzYWdlVGVybXM+IDxyZGY6QWx0PiA8cmRmOmxpIHhtbDpsYW5nPSJ4LWRlZmF1bHQiPmh0dHA6Ly9oZGwuaGFuZGxlLm5ldC8xMDA3OS9nYjVta3d3PC9yZGY6bGk+IDwvcmRmOkFsdD4gPC94bXBSaWdodHM6VXNhZ2VUZXJtcz4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6N2M1YjBmZTctMDljZi1mNDQ4LWE3ZDctY2E1NmY1YmJmZDI5IiBzdFJlZjpkb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6Y2Q0MWNiMDctMDYyNC03MDQ1LThmZTUtYjhmNTY0ZDhkYjY5Ii8+IDxkYzpyaWdodHM+IDxyZGY6QWx0PiA8cmRmOmxpIHhtbDpsYW5nPSJ4LWRlZmF1bHQiPllhbGUgQ2VudGVyIGZvciBCcml0aXNoIEFydCwgMjAwODwvcmRmOmxpPiA8L3JkZjpBbHQ+IDwvZGM6cmlnaHRzPiA8ZGM6Y3JlYXRvcj4gPHJkZjpTZXE+IDxyZGY6bGk+UmljaGFyZCBDYXNwb2xlPC9yZGY6bGk+IDwvcmRmOlNlcT4gPC9kYzpjcmVhdG9yPiA8ZGM6dGl0bGU+IDxyZGY6QWx0PiA8cmRmOmxpIHhtbDpsYW5nPSJ4LWRlZmF1bHQiPkIxOTc0LjMuMzE8L3JkZjpsaT4gPC9yZGY6QWx0PiA8L2RjOnRpdGxlPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pg==</value>
+    </property>
+    <property>
+      <name>iptc-data</name>
+      <value type="VipsBlob">UGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAADUcAVoAAxslRxwCAAACAAIcAnQAIVlhbGUgQ2VudGVyIGZvciBCcml0aXNoIEFydCwgMjAwOAA4QklNBCUAAAAAABALTMve8ubxnmfY2DIqE2VO</value>
+    </property>
+  </properties>
+</image>

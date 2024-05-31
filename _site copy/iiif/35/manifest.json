@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080/iiif/35/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      null
+    ]
+  },
+  "items": [
+    {
+      "id": "http://localhost:8080/iiif/35/canvas",
+      "type": "Canvas",
+      "height": 3741,
+      "width": 2845,
+      "items": [
+        {
+          "id": "http://localhost:8080/iiif/35/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/iiif/35/canvas/Hilliard_01",
+              "motivation": "painting",
+              "target": "http://localhost:8080/iiif/35/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "http://localhost:8080/iiif/35/Hilliard_01/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3741,
+                "width": 2845,
+                "label": {
+                  "en": [
+                    "Hilliard 01"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://localhost:8080/iiif/35/Hilliard_01/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

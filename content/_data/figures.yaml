@@ -16,7 +16,7 @@ figure_list:
     zoom: true
 
   - id: "22"
-    src: figures/peake-elizabeth-pope_01.jpg
+    src: figures/peake-elizabeth-pope-01.jpg
     download: true
     zoom: true
 
@@ -39,31 +39,31 @@ figure_list:
     label: "Figure 1"
     caption: "Robert Peake the Elder, *Lady Elizabeth Pope (née Watson)*, ca.1615, oil on panel, 61 x 77.5 cm."
     credit: "Tate Britain."
-    src: figures/peake-elizabeth-pope_02.jpg
+    src: figures/peake-elizabeth-pope-02.jpg
 
   - id: "peake-2"
     label: "Figure 2"
     caption: "Infra-red details of Watson's hands from the YCBA and Tate portraits. In both, her slim, elongated fingers were loosely delineated with a carbon based black pigment, the lines mostly ignored when paint was applied."
     credit: "Tate Britain and Yale Center for British Art." 
-    src: figures/peake-elizabeth-pope_03.jpg
+    src: figures/peake-elizabeth-pope-03.jpg
 
   - id: "peake-3"
     label: "Figure 3"
     caption: "Details of Watson's nose and mouth from the YCBA (regular light, flipped horizontally) and Tate (infrared and regular light photos) showing how her facial features were shifted upward during painting."
     credit: "Tate Britain and Yale Center for British Art." 
-    src: figures/peake-elizabeth-pope_04.jpg
+    src: figures/peake-elizabeth-pope-04.jpg
 
   - id: "peake-4"
     label: "Figure 4"
     caption: "The paint layer is thinner along the contours of Watson's facial features. Within these thin channels are traces of a carbon-based under drawing above which are thin lines of brown paint that delineate the eyelash lines, proportions of the nose and lip line."
     credit: "Tate Britain and Yale Center for British Art." 
-    src: figures/peake-elizabeth-pope_05.jpg
+    src: figures/peake-elizabeth-pope-05.jpg
 
   - id: "peake-5"
     label: "Figure 5"
     caption: "XRF map showing the distribution of iron-based material in the painting, such as brown ocher. Although Elizabeth's complexion has a silvery paleness, this brown paint lays beneath the flesh, acting as an armature for her features and peeking out as warm shadows on her nostrils and the underside of her chin."
     credit: "Yale Center for British Art." 
-    src: figures/peake-elizabeth-pope_06.jpg
+    src: figures/peake-elizabeth-pope-06.jpg
 
   - id: "peake-6"
     label: "Figure 6"
@@ -81,16 +81,16 @@ figure_list:
     label: "Figure 8"
     caption: "Micro photographs of Watson's enamel bracelet, blueish pearls and gold-mounted diamonds. A thin orange-ocher color peeks out beneath the thick, light yellow highlights, showing how Peake first demarked the locations of jewels using ocher and then finished the settings with thicker bodied lead tin yellow pigment."
     credit: "Yale Center for British Art." 
-    src: figures/peake-elizabeth-pope_09.jpg
+    src: figures/peake-elizabeth-pope-09.jpg
 
   - id: "peake-9"
     label: "Figure 9"
     caption: "The textured pattern of Elizabeth's yellow lace collar is overlapped by the red lake glaze which covers the drapery behind her. This transparnt red hue is a notoriously slow dryer and is, therefore, tpyically among the last pigments applied."
     credit: "Yale Center for British Art." 
-    src: figures/peake-elizabeth-pope_10.jpg
+    src: figures/peake-elizabeth-pope-10.jpg
      
   - id: "35"
-    src: figures/Hilliard_01.jpg
+    src: figures/hilliard-01.jpg
     download: true
     zoom: true
 
@@ -98,61 +98,56 @@ figure_list:
     label: "Figure 1"
     caption: "Nicholas Hilliard, *Portrait of a Lady*, verso, between 1600 and 1615, watercolor and gouache on vellum laid onto card, Yale Center for British Art, Paul Mellon Collection."
     credit: "Yale Center for British Art."
-    src: figures/Hilliard_02.jpg
+    src: figures/hilliard-02.jpg
 
   - id: "hilliard-1"
     label: "Figure 2"
     caption: "Detail of nose showing carnation color, the warm nostril composed of earth pigment and a yellowish wash across the underside of the nose."
     credit: "Yale Center for British Art."
-    src: figures/Hilliard_03.jpg
+    src: figures/hilliard-03.jpg
 
   - id: "hilliard-2"
     label: "Figure 3"
     caption: "Detail of the left eye."
     credit: "Yale Center for British Art."
-    src: figures/Hilliard_04.jpg
+    src: figures/hilliard-04.jpg
 
   - id: "hilliard-3"
     label: "Figure 4"
     caption: "X-ray map of copper, relating to azurite pigment in the background."
     credit: "Yale Center for British Art."
-    src: figures/Hilliard_05.jpg
+    src: figures/hilliard-05.jpg
 
   - id: "hilliard-4"
     label: "Figure 5"
     caption: "Detail of the hair, left, showing some strands left in reserve and others painted directly over the azurite background."
     credit: "Yale Center for British Art."
-    src: figures/Hilliard_06.jpg
+    src: figures/hilliard-06.jpg
 
   - id: "hilliard-5"
     label: "Figure 6"
     caption: "Isaac Oliver (ca. 1565-1617), *Elizabeth I*, watercolor on vellum, 82mm x 52mm."
     credit: "Victoria and Albert Museum."
-    src: figures/Hilliard_07.jpg
+    src: figures/hilliard-07.jpg
 
   - id: "hilliard-6"
     label: "Figure 7"
     caption: "XRF map showing the distribution of silver in the miniature."
     credit: "Yale Center for British Art."
-    src: figures/Hilliard_08.jpg
+    src: figures/hilliard-08.jpg
 
   - id: "hilliard-7"
     label: "Figure 8"
     caption: "Detail of the tarnish silver detail on the red dress, showing where it overlaps the gold border."
     credit: "Yale Center for British Art."
-    src: figures/Hilliard_09.jpg
+    src: figures/hilliard-09.jpg
 
   - id: "hilliard-8"
     label: "Figure 9"
     caption: "Detail of the tarnish silver detail on the red dress, showing where it overlaps the gold border."
     credit: "Yale Center for British Art."
-    src: figures/Hilliard_10.jpg
+    src: figures/hilliard-10.jpg
 
-  - id: "hilliard-9"
-    label: "Figure 10"
-    caption: "Detail of the pearl drop earring with original shell gold and later restoration covering the original silver highlights on the pearls."
-    credit: "Yale Center for British Art."
-    src: figures/Hilliard_10.jpg
 
     
 
